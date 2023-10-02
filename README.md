@@ -14,7 +14,7 @@
  
 <br>
  
-### me segue a gente nas redes abaixo!
+### me segue nas redes abaixo!
  
 <div> 
   <a href="https://twitter.com/Assis_P_Neto" target="_blank"><img src="https://img.shields.io/badge/-twitter-%23333?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
