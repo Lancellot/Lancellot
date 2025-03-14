@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Assis 
 
-🚀 Desenvolvedor Front-End em transição de carreira, apaixonado por tecnologia e criação de interfaces web modernas e responsivas.  
+🚀 Desenvolvedor Front-End, apaixonado por tecnologia e criação de interfaces web modernas e responsivas.  
 
 🎯 Busco oportunidades para aprender e crescer no desenvolvimento web, focando em **React, JavaScript, HTML e CSS**.  
 
