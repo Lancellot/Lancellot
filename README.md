@@ -13,7 +13,7 @@
 🔹 [Portfólio em React](https://github.com/Lancellot/react-portfolio) – Meu site de portfólio feito com React  
 🔹 [Jogo da Memória](https://github.com/Lancellot/jogo-de-memoria-master) – Um jogo de memória
 
-## 📫 Contato  
+## 📫 Contatos  
 <div> 
   <a href="https://www.linkedin.com/in/assis-pires-neto-9827a6174" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/assis.p.n" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
