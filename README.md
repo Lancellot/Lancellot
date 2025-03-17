@@ -10,17 +10,19 @@
 
 <p align="left">
   🦄 Linguagens:
-  🔹 **Front-End:** HTML, CSS, JavaScript, React  
-  🔹 **Back-End:** PHP, MySQL  
+  <p align="left">
+  🔹 **Front-End:** HTML, CSS, JavaScript, React
+  </p>
+  <p align="left">
+  🔹 **Back-End:** PHP, MySQL
+  </p>
 </p>
 
 <p align="left">
   💼 Ferramentas: **Git, GitHub, VS Code **
 </p>
 
-<p align="left">
-  ## 📫 Contatos: ⤵️
-</p>
+
 <p align="left">
 ## 📫 Contatos ⤵️ 
 </p>
