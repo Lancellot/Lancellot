@@ -11,16 +11,16 @@
 <p align="left">
   🦄 Linguagens:
   <p align="left">
-  🔹 **Front-End:** HTML, CSS, JavaScript, React
+  🔹 Front-End: HTML, CSS, JavaScript, React
   </p>
   <p align="left">
-  🔹 **Back-End:** PHP, MySQL
+  🔹 Back-End: PHP, MySQL
   </p>
 </p>
 
 
 <p align="left">
-  💼 Ferramentas: **Git, GitHub, VS Code **
+  💼 Ferramentas: Git, GitHub, VS Code 
 </p>
 
 <div style="display: inline_block" align="center"><br>
