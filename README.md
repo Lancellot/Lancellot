@@ -1,13 +1,39 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
 # 👋 Olá! Seja bem-vindo!
 
 🚀 Desenvolvedor Front-End, apaixonado por tecnologia e criação de interfaces web modernas e responsivas.  
 
 🎯 Busco oportunidades para aprender e crescer no desenvolvimento web, focando em **React, JavaScript, HTML e CSS**.  
+</p>
 
-## 🛠 Tecnologias  
-🔹 **Front-End:** HTML, CSS, JavaScript, React  
-🔹 **Back-End:** PHP, MySQL  
-🔹 **Ferramentas:** Git, GitHub, VS Code  
+<p align="left">
+  🦄 Linguagens:
+  🔹 **Front-End:** HTML, CSS, JavaScript, React  
+  🔹 **Back-End:** PHP, MySQL  
+</p>
+
+<p align="left">
+  💼 Ferramentas: **Git, GitHub, VS Code **
+</p>
+
+<p align="left">
+  💌 Contatos: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+  <a href="#" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
 
 ## 📌 Projetos em Destaque  
 🔹 [Portfólio em React](https://github.com/Lancellot/react-portfolio) – Meu site de portfólio feito com React  
