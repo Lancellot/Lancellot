@@ -48,7 +48,9 @@
 
 
 ---
-_"O aprendizado nunca termina. Sempre há algo novo para explorar!"_  
+<p align="center">
+  _"O aprendizado nunca termina. Sempre há algo novo para explorar!"_ 
+</p>
  <div align="center">
    <a href="https://github.com/Lancellot">
    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lancellot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
