@@ -14,7 +14,7 @@
   🔹 Front-End: HTML, CSS, JavaScript, React
   </p>
   <p align="left">
-  🔹 Back-End: PHP, MySQL
+  🔹 Back-End: PHP, MySQL, Node.js, TypeScrpipt
   </p>
 </p>
 
