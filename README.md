@@ -24,7 +24,7 @@ const assis = {
    location: "Brazil 🇧🇷",
    role: "Frontend Developer",
    background: "IT Support & Service Desk (4 years)",
-   journey: "Coding since 2024, transitioning to web development",
+   journey: "Coding since 2024, transitioning to development",
    skills: [
         "💻 JavaScript & React",
         "🛠️ Frontend Development",
@@ -36,7 +36,7 @@ const assis = {
         "🎵 Listening to Electronic Music",
         "🃏 Playing Magic: The Gathering"
     ],
-  motto: "Turning tech knowledge into interactive web experiences ✨",
+  motto: "Learning never ends.✨",
 };
 
 ````
