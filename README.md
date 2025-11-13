@@ -14,31 +14,29 @@
   
 </div>    
 
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
 
 ```javascript
 const assis = {
-    name: "Assis Pires Neto",
-    location: "Brazil 🇧🇷",
-    role: "Frontend Developer",
-    background: "IT Support & Service Desk (4 years)",
-    journey: "Coding since 2024, transitioning to web development",
-    skills: [
+   name: "Assis Pires Neto",
+   location: "Brazil 🇧🇷",
+   role: "Frontend Developer",
+   background: "IT Support & Service Desk (4 years)",
+   journey: "Coding since 2024, transitioning to web development",
+   skills: [
         "💻 JavaScript & React",
         "🛠️ Frontend Development",
         "🌐 Web Automation & APIs",
         "🎯 Problem Solving & Tech Support"
     ],
-    passions: [
+  passions: [
         "🏕️ Camping",
         "🎵 Listening to Electronic Music",
         "🃏 Playing Magic: The Gathering"
-    ]
-    motto: "Turning tech knowledge into interactive web experiences ✨",
-    }
+    ],
+  motto: "Turning tech knowledge into interactive web experiences ✨",
 };
 
 ````
@@ -73,6 +71,7 @@ const assis = {
 
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=SEU_USERNAME&theme=gotham&mode=daily&locale=pt-BR" height="150" alt="streak graph"/>
 
+<p></p>
 <img src="https://github-profile-trophy.vercel.app?username=Lancellot&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"/>
 
 </div>
