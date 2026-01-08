@@ -72,7 +72,5 @@ const assis = {
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=Lancellot&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false" alt="trophy graph"/>
 </div>
-
-
-     
+    
 <br>
