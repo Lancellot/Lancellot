@@ -67,8 +67,8 @@ const assis = {
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lancellot&show_icons=true&theme=gotham&locale=pt-br" height="150" alt="stats graph"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lancellot&theme=gotham&locale=pt-BR" height="150" alt="streak graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lancellot&show_icons=true&theme=gotham&locale=pt-br&cache_seconds=1800" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=Lancellot&theme=gotham&locale=pt-BR" height="150"/>
 </div>
     
 <br>
