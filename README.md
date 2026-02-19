@@ -23,7 +23,7 @@ const assis = {
    name: "Assis Pires Neto",
    location: "Brazil 🇧🇷",
    role: "Frontend Developer",
-   background: "IT Support & Service Desk (4 years)",
+   background: "IT Support & Service Desk (5 years)",
    journey: "Coding since 2024, transitioning to development",
    skills: [
         "💻 JavaScript & React",
