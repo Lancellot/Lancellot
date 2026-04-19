@@ -2,7 +2,7 @@
 
 # 👋 Seja bem-vindo
 
-🎯 **Frontend Developer** | Transformando ideias 
+🎯 **Developer** | Transformando ideias 
 
 </div>
 
@@ -27,7 +27,7 @@ const assis = {
    journey: "Coding since 2024, transitioning to development",
    skills: [
         "💻 JavaScript & React",
-        "🛠️ Frontend Development",
+        "🛠️ Full Stack Development",
         "🌐 Web Automation & APIs",
         "🎯 Problem Solving & Tech Support"
     ],
